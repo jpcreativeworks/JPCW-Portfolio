@@ -1,14 +1,28 @@
 import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Main from './components/Main';
+import Contact from './components/Contact'
+import About from './components/About'
+import Portfolio from './components/Portfolio'
+import Resume from './components/Resume'
+
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
+      <BrowserRouter>
       <Header />
-      <Main />
-      <Footer />
+        <Routes>
+          
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/" element={<About />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/resume" element={<Resume />} />          
+
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </div>
   );
 }
