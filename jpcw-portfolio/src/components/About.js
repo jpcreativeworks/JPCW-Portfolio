@@ -18,9 +18,10 @@ export default function About() {
                     <div className="card-body">
                         <h1>Hello.</h1>
                         <p>JPCW is a one stop shop for your digital development needs. Working with the digital arts for over 10 years, growing and adapting with the technological changes but always looking towards the horizon and thinking out side the box. </p>
-                        <p>Some main services offered</p>
+                        
                     </div>
-                </div>           
+                </div> 
+                <div><p style={{ "text-align": "center", "padding":" 10px 0 10px "}}>Main services offered:</p></div>          
         <div className="row" style={{ "padding" : "15px"}}>
             
                 <div className="card col-4">
