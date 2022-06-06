@@ -16,7 +16,7 @@ export default function About() {
                 </div>
                 <div className='card col-8'>
                     <div className="card-body">
-                        <h1>Hello and Welcome.</h1>
+                        <h1>Hello and Welcome!</h1>
                         <p>JPCW is a one stop shop for your digital development needs. Working with the digital arts for over 10 years, growing and adapting with the technological changes but always looking towards the horizon and thinking out side the box. </p>
                         
                     </div>
