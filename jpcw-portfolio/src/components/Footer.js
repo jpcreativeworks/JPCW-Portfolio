@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer() {
     return (
-        <footer className="bg-light text-center text-white">
+        <footer className="bg-light text-center text-white" id='footer'>
             {/* <!-- Grid container --> */}
             <div className="container p-4 pb-0">
              {/* <!-- Section: Social media --> */}
