@@ -1,20 +1,26 @@
 {
   "files": {
     "main.css": "/JPCW-Portfolio/static/css/main.5a2adbcc.css",
-    "main.js": "/JPCW-Portfolio/static/js/main.43392ce6.js",
+    "main.js": "/JPCW-Portfolio/static/js/main.001f4299.js",
     "static/js/787.8a950701.chunk.js": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js",
     "static/media/D4C3702.jpg": "/JPCW-Portfolio/static/media/D4C3702.06d40c4cd3c7e85a211c.jpg",
+    "static/media/datababes-iventory.herokuapp.com.png": "/JPCW-Portfolio/static/media/datababes-iventory.herokuapp.com.ce8da0bdf2c8e7a59f62.png",
+    "static/media/the-ultimate-book-search.herokuapp.com.png": "/JPCW-Portfolio/static/media/the-ultimate-book-search.herokuapp.com.6be4e6d6372af9399a37.png",
+    "static/media/Shady-pines-cinima-scnshot.png": "/JPCW-Portfolio/static/media/Shady-pines-cinima-scnshot.9e288d5345cefafaf942.png",
+    "static/media/weather4u.png": "/JPCW-Portfolio/static/media/weather4u.c6fb4c02f62edb0ae112.png",
+    "static/media/text-editor-app.png": "/JPCW-Portfolio/static/media/text-editor-app.32592e42b5756c50cadc.png",
+    "static/media/PW-Generator.png": "/JPCW-Portfolio/static/media/PW-Generator.e8e39e0ef3d27e703e5e.png",
     "static/media/updated-Logo.jpg": "/JPCW-Portfolio/static/media/updated-Logo.012bef79808d94c42a75.jpg",
     "static/media/web-devel.jpg": "/JPCW-Portfolio/static/media/web-devel.426bbb2757255c0efcd6.jpg",
     "static/media/Graphics.jpg": "/JPCW-Portfolio/static/media/Graphics.7714d86f981fe80a7fd3.jpg",
     "static/media/photos.jpg": "/JPCW-Portfolio/static/media/photos.6c5d9deb3c0f5d2ee0d7.jpg",
     "index.html": "/JPCW-Portfolio/index.html",
     "main.5a2adbcc.css.map": "/JPCW-Portfolio/static/css/main.5a2adbcc.css.map",
-    "main.43392ce6.js.map": "/JPCW-Portfolio/static/js/main.43392ce6.js.map",
+    "main.001f4299.js.map": "/JPCW-Portfolio/static/js/main.001f4299.js.map",
     "787.8a950701.chunk.js.map": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a2adbcc.css",
-    "static/js/main.43392ce6.js"
+    "static/js/main.001f4299.js"
   ]
 }
