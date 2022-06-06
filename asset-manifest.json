@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/JPCW-Portfolio/static/css/main.5a2adbcc.css",
-    "main.js": "/JPCW-Portfolio/static/js/main.593d3c39.js",
+    "main.js": "/JPCW-Portfolio/static/js/main.fb658c9f.js",
     "static/js/787.8a950701.chunk.js": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js",
-    "static/media/_D4C3702.jpg": "/JPCW-Portfolio/static/media/_D4C3702.06d40c4cd3c7e85a211c.jpg",
+    "static/media/D4C3702.jpg": "/JPCW-Portfolio/static/media/D4C3702.06d40c4cd3c7e85a211c.jpg",
     "static/media/updated-Logo.jpg": "/JPCW-Portfolio/static/media/updated-Logo.012bef79808d94c42a75.jpg",
     "static/media/web-devel.jpg": "/JPCW-Portfolio/static/media/web-devel.426bbb2757255c0efcd6.jpg",
     "static/media/Graphics.jpg": "/JPCW-Portfolio/static/media/Graphics.7714d86f981fe80a7fd3.jpg",
     "static/media/photos.jpg": "/JPCW-Portfolio/static/media/photos.6c5d9deb3c0f5d2ee0d7.jpg",
     "index.html": "/JPCW-Portfolio/index.html",
     "main.5a2adbcc.css.map": "/JPCW-Portfolio/static/css/main.5a2adbcc.css.map",
-    "main.593d3c39.js.map": "/JPCW-Portfolio/static/js/main.593d3c39.js.map",
+    "main.fb658c9f.js.map": "/JPCW-Portfolio/static/js/main.fb658c9f.js.map",
     "787.8a950701.chunk.js.map": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a2adbcc.css",
-    "static/js/main.593d3c39.js"
+    "static/js/main.fb658c9f.js"
   ]
 }
