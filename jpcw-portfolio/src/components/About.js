@@ -1,5 +1,5 @@
 import React from 'react'
-import Profile from '../_D4C3702.jpg'
+import Profile from '../D4C3702.jpg'
 import Camera from '../photos.jpg'
 import Graphics from '../Graphics.jpg'
 import Web from '../web-devel.jpg'
@@ -16,7 +16,7 @@ export default function About() {
                 </div>
                 <div className='card col-8'>
                     <div className="card-body">
-                        <h1>Hello.</h1>
+                        <h1>Hello and Welcome.</h1>
                         <p>JPCW is a one stop shop for your digital development needs. Working with the digital arts for over 10 years, growing and adapting with the technological changes but always looking towards the horizon and thinking out side the box. </p>
                         
                     </div>
