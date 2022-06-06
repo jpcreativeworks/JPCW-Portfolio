@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JPCW-Portfolio/static/css/main.5a2adbcc.css",
-    "main.js": "/JPCW-Portfolio/static/js/main.fb658c9f.js",
+    "main.js": "/JPCW-Portfolio/static/js/main.43392ce6.js",
     "static/js/787.8a950701.chunk.js": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js",
     "static/media/D4C3702.jpg": "/JPCW-Portfolio/static/media/D4C3702.06d40c4cd3c7e85a211c.jpg",
     "static/media/updated-Logo.jpg": "/JPCW-Portfolio/static/media/updated-Logo.012bef79808d94c42a75.jpg",
@@ -10,11 +10,11 @@
     "static/media/photos.jpg": "/JPCW-Portfolio/static/media/photos.6c5d9deb3c0f5d2ee0d7.jpg",
     "index.html": "/JPCW-Portfolio/index.html",
     "main.5a2adbcc.css.map": "/JPCW-Portfolio/static/css/main.5a2adbcc.css.map",
-    "main.fb658c9f.js.map": "/JPCW-Portfolio/static/js/main.fb658c9f.js.map",
+    "main.43392ce6.js.map": "/JPCW-Portfolio/static/js/main.43392ce6.js.map",
     "787.8a950701.chunk.js.map": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a2adbcc.css",
-    "static/js/main.fb658c9f.js"
+    "static/js/main.43392ce6.js"
   ]
 }
