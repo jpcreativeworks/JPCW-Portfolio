@@ -17,7 +17,7 @@ function App() {
         <Routes>
           
         <Route path="/contact" element={<Contact />} />
-        <Route path="/" element={<About />} />
+        <Route path="/JPCW-Portfolio" element={<About />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/resume" element={<Resume />} />          
 
