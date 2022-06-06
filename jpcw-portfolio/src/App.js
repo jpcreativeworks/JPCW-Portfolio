@@ -15,11 +15,10 @@ function App() {
       <BrowserRouter>
       <Header />
         <Routes>
-          
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/JPCW-Portfolio" element={<About />} />
-        <Route path="/portfolio" element={<Portfolio />} />
-        <Route path="/resume" element={<Resume />} />          
+        <Route path="/JPCW-Portfolio" element={<About />} /> 
+        <Route path="/JPCW-Portfolio/contact" element={<Contact />} />        
+        <Route path="/JPCW-Portfolio/portfolio" element={<Portfolio />} />
+        <Route path="/JPCW-Portfolio/resume" element={<Resume />} />          
 
         </Routes>
         <Footer />

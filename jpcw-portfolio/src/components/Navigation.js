@@ -13,16 +13,16 @@ export default function Navigation() {
                     <ul className="navbar-nav ms-auto" id="navLinks">
                         
                         <li className="nav-about" id='abouthome'>
-                            <Link to="/">About</Link>
+                            <Link to="/JPCW-Portfolio">About</Link>
                         </li>
                         <li className="nav-portfolio">
-                            <Link to="/portfolio">Portfolio</Link>
+                            <Link to="/JPCW-Portfolio/portfolio">Portfolio</Link>
                         </li>
                         <li className="nav-resume">
-                            <Link to="/resume">Resume</Link>
+                            <Link to="/JPCW-Portfolio/resume">Resume</Link>
                         </li>
                         <li className="nav-contact">
-                            <Link to="/contact">Contact</Link>
+                            <Link to="/JPCW-Portfolio/contact">Contact</Link>
                         </li>
                         
                     </ul>      
