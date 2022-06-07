@@ -8,7 +8,7 @@ export default function About() {
     return (
         <div className='container'>
         <div className="row" style={{ "padding" : "15px"}}>
-            {/* <div className="column"> */}
+           
                 <div className='card col-12 col-md-4 col-12'>
                     <div className="card-body">
                         <img src={Profile} alt="Jenn" style={ { "width":"100%"} }></img>
@@ -16,12 +16,12 @@ export default function About() {
                 </div>
                 <div className='card col-12 col-md-8 '>
                     <div className="card-body">
-                        <h1>Hello and Welcome!</h1>
+                        <h1>Hello.</h1>
                         <p>JPCW is a one stop shop for your digital development needs. Working with the digital arts for over 10 years, growing and adapting with the technological changes but always looking towards the horizon and thinking out side the box. </p>
                         
                     </div>
                 </div> 
-                <div><p style={{ "text-align": "center", "padding":" 10px 0 10px "}}>Main services offered:</p></div>          
+                <div><h3 style={{ "text-align": "center", "padding":" 10px 0 10px "}}>Main Services Offered:</h3></div>          
         <div className="row" style={{ "padding" : "15px"}}>
             
                 <div className="card col-md-4">
