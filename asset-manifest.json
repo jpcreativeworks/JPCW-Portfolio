@@ -1,26 +1,36 @@
 {
   "files": {
     "main.css": "/JPCW-Portfolio/static/css/main.5a2adbcc.css",
-    "main.js": "/JPCW-Portfolio/static/js/main.001f4299.js",
+    "main.js": "/JPCW-Portfolio/static/js/main.39b3ef62.js",
     "static/js/787.8a950701.chunk.js": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js",
+    "static/media/engagment-photos.png": "/JPCW-Portfolio/static/media/engagment-photos.24815f1c0d6185724e38.png",
     "static/media/D4C3702.jpg": "/JPCW-Portfolio/static/media/D4C3702.06d40c4cd3c7e85a211c.jpg",
+    "static/media/Vamp-Posters.png": "/JPCW-Portfolio/static/media/Vamp-Posters.3509ef33baee54d5155a.png",
+    "static/media/masterpiece-collage.jpg": "/JPCW-Portfolio/static/media/masterpiece-collage.fbc8553af2c818fcd49a.jpg",
+    "static/media/materpiece-collage-the-reader.jpg": "/JPCW-Portfolio/static/media/materpiece-collage-the-reader.ef030433ee0769039cf0.jpg",
+    "static/media/jpcw-old-html-site.png": "/JPCW-Portfolio/static/media/jpcw-old-html-site.72d2905329f81ee0622e.png",
+    "static/media/Fuel.png": "/JPCW-Portfolio/static/media/Fuel.4fc882254951464876f0.png",
     "static/media/datababes-iventory.herokuapp.com.png": "/JPCW-Portfolio/static/media/datababes-iventory.herokuapp.com.ce8da0bdf2c8e7a59f62.png",
     "static/media/the-ultimate-book-search.herokuapp.com.png": "/JPCW-Portfolio/static/media/the-ultimate-book-search.herokuapp.com.6be4e6d6372af9399a37.png",
     "static/media/Shady-pines-cinima-scnshot.png": "/JPCW-Portfolio/static/media/Shady-pines-cinima-scnshot.9e288d5345cefafaf942.png",
+    "static/media/Cafe-poster.png": "/JPCW-Portfolio/static/media/Cafe-poster.a68149fab340d6487d1b.png",
     "static/media/weather4u.png": "/JPCW-Portfolio/static/media/weather4u.c6fb4c02f62edb0ae112.png",
+    "static/media/fuel-image-edit.jpg": "/JPCW-Portfolio/static/media/fuel-image-edit.78a7bde1bc36e3863694.jpg",
     "static/media/text-editor-app.png": "/JPCW-Portfolio/static/media/text-editor-app.32592e42b5756c50cadc.png",
     "static/media/PW-Generator.png": "/JPCW-Portfolio/static/media/PW-Generator.e8e39e0ef3d27e703e5e.png",
+    "static/media/Annedel-CD-CASE.gif": "/JPCW-Portfolio/static/media/Annedel-CD-CASE.a50ac8100b2e38b3c587.gif",
+    "static/media/APPCard-Project.gif": "/JPCW-Portfolio/static/media/APPCard-Project.a399523a9dfa196705f4.gif",
     "static/media/updated-Logo.jpg": "/JPCW-Portfolio/static/media/updated-Logo.012bef79808d94c42a75.jpg",
     "static/media/web-devel.jpg": "/JPCW-Portfolio/static/media/web-devel.426bbb2757255c0efcd6.jpg",
     "static/media/Graphics.jpg": "/JPCW-Portfolio/static/media/Graphics.7714d86f981fe80a7fd3.jpg",
     "static/media/photos.jpg": "/JPCW-Portfolio/static/media/photos.6c5d9deb3c0f5d2ee0d7.jpg",
     "index.html": "/JPCW-Portfolio/index.html",
     "main.5a2adbcc.css.map": "/JPCW-Portfolio/static/css/main.5a2adbcc.css.map",
-    "main.001f4299.js.map": "/JPCW-Portfolio/static/js/main.001f4299.js.map",
+    "main.39b3ef62.js.map": "/JPCW-Portfolio/static/js/main.39b3ef62.js.map",
     "787.8a950701.chunk.js.map": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a2adbcc.css",
-    "static/js/main.001f4299.js"
+    "static/js/main.39b3ef62.js"
   ]
 }
