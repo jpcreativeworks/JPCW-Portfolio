@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JPCW-Portfolio/static/css/main.5a2adbcc.css",
-    "main.js": "/JPCW-Portfolio/static/js/main.3f209765.js",
+    "main.js": "/JPCW-Portfolio/static/js/main.186ad247.js",
     "static/js/787.8a950701.chunk.js": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js",
     "static/media/engagment-photos.png": "/JPCW-Portfolio/static/media/engagment-photos.24815f1c0d6185724e38.png",
     "static/media/D4C3702.jpg": "/JPCW-Portfolio/static/media/D4C3702.06d40c4cd3c7e85a211c.jpg",
@@ -29,11 +29,11 @@
     "static/media/Bencriscutto-Resume-2022.pdf": "/JPCW-Portfolio/static/media/Bencriscutto-Resume-2022.26d0cd690aa2db40530a.pdf",
     "index.html": "/JPCW-Portfolio/index.html",
     "main.5a2adbcc.css.map": "/JPCW-Portfolio/static/css/main.5a2adbcc.css.map",
-    "main.3f209765.js.map": "/JPCW-Portfolio/static/js/main.3f209765.js.map",
+    "main.186ad247.js.map": "/JPCW-Portfolio/static/js/main.186ad247.js.map",
     "787.8a950701.chunk.js.map": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a2adbcc.css",
-    "static/js/main.3f209765.js"
+    "static/js/main.186ad247.js"
   ]
 }
