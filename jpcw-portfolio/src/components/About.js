@@ -17,7 +17,7 @@ export default function About() {
                 <div className='card col-12 col-md-8 '>
                     <div className="card-body">
                         <h1>Hello.</h1>
-                        <p>JPCW is a one stop shop for your digital development needs. Working with the digital arts for over 10 years, growing and adapting with the technological changes but always looking towards the horizon and thinking out side the box. </p>
+                        <p>JPCW is a one stop shop for your digital development needs. Working with the digital arts for over 10 years, growing and adapting with the technological changes but always looking towards the horizon and thinking outside the box. </p>
                         
                     </div>
                 </div> 
@@ -28,7 +28,7 @@ export default function About() {
                 <img src={Camera} alt="Photography-Logo" style={ { "width":"100%"} }></img>
                  <div className="container">
                     <h2>Photography</h2>              
-                    <p>Digital and Film Photography, Photo Editing, and Wedding, Portrait, Family, Baby, Realestate Photography as well as Videography</p>              
+                    <p>Digital and Film Photography, Photo Editing, Wedding, Portrait, Family, Baby, Realestate Photography as well as Videography.</p>              
                 </div>
                 </div>
             
@@ -37,7 +37,7 @@ export default function About() {
             <img src={Web} alt="Web-development-Logo" style={ { "width":"100%"} }></img>
             <div className="container">
                 <h2>Web Development</h2>
-                <p>Recently Graduated from the University of Arizona's Full Stack Web Development Code Bootcamp and egar to hit the ground running with your next web application</p>
+                <p>Recently graduated from the University of Arizona's Full Stack Web Development Code Bootcamp and eager to hit the ground running with your next web application.</p>
             </div>
             </div>
         
@@ -47,7 +47,7 @@ export default function About() {
           <img src={Graphics} alt="Graphic-Design-Logo" style={ { "width":"100%"} }></img>
             <div className="container">
               <h2>Graphic Design</h2>              
-              <p>Do you need a unique logo for your business? Maybe a special vector file to help you stand out from the crowd? Well look no further! Just contact me about your graphic art needs and we will get the ball rolling on your next idea</p>                            
+              <p>Do you need a unique logo for your business? Maybe a special vector file to help you stand out from the crowd? Well look no further! Send a message about your graphic art needs and we will get the ball rolling on your next idea.</p>                            
             </div>
           </div>
         
