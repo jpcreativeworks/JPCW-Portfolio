@@ -5,7 +5,7 @@ export default function Navigation() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light" style={ { "background-color" : "#6f42c1" } }>
             <div className="updatedLogo container-fluid">
-                <Link to='/'><img src={NewLogo} style={ {"width" : "170px", "height" : "130px", "display" : "flex"} } alt='JP Creative Works Logo'/></Link>
+                <Link to='/JPCW-Portfolio'><img src={NewLogo} style={ {"width" : "170px", "height" : "130px", "display" : "flex"} } alt='JP Creative Works Logo'/></Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon" style={ {"color" : "white"} }></span>
                 </button>       
