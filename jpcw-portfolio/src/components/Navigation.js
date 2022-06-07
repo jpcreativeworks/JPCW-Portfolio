@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'; //module react router dom
-import NewLogo from '../updated-Logo.jpg'
+import NewLogo from '../imgs/updated-Logo.jpg'
 export default function Navigation() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light" style={ { "background-color" : "#6f42c1" } }>

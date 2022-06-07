@@ -1,8 +1,8 @@
 import React from 'react'
-import Profile from '../D4C3702.jpg'
-import Camera from '../photos.jpg'
-import Graphics from '../Graphics.jpg'
-import Web from '../web-devel.jpg'
+import Profile from '../imgs/D4C3702.jpg'
+import Camera from '../imgs/photos.jpg'
+import Graphics from '../imgs/Graphics.jpg'
+import Web from '../imgs/web-devel.jpg'
 
 export default function About() {
     return (
