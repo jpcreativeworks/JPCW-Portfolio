@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JPCW-Portfolio/static/css/main.5a2adbcc.css",
-    "main.js": "/JPCW-Portfolio/static/js/main.39b3ef62.js",
+    "main.js": "/JPCW-Portfolio/static/js/main.9bc248e0.js",
     "static/js/787.8a950701.chunk.js": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js",
     "static/media/engagment-photos.png": "/JPCW-Portfolio/static/media/engagment-photos.24815f1c0d6185724e38.png",
     "static/media/D4C3702.jpg": "/JPCW-Portfolio/static/media/D4C3702.06d40c4cd3c7e85a211c.jpg",
@@ -23,14 +23,17 @@
     "static/media/updated-Logo.jpg": "/JPCW-Portfolio/static/media/updated-Logo.012bef79808d94c42a75.jpg",
     "static/media/web-devel.jpg": "/JPCW-Portfolio/static/media/web-devel.426bbb2757255c0efcd6.jpg",
     "static/media/Graphics.jpg": "/JPCW-Portfolio/static/media/Graphics.7714d86f981fe80a7fd3.jpg",
+    "static/media/contact.jpg": "/JPCW-Portfolio/static/media/contact.d20a55165f8f012272d4.jpg",
     "static/media/photos.jpg": "/JPCW-Portfolio/static/media/photos.6c5d9deb3c0f5d2ee0d7.jpg",
+    "static/media/resume.jpg": "/JPCW-Portfolio/static/media/resume.e6eccc3ab673f9ada544.jpg",
+    "static/media/Bencriscutto-Resume-2022.pdf": "/JPCW-Portfolio/static/media/Bencriscutto-Resume-2022.26d0cd690aa2db40530a.pdf",
     "index.html": "/JPCW-Portfolio/index.html",
     "main.5a2adbcc.css.map": "/JPCW-Portfolio/static/css/main.5a2adbcc.css.map",
-    "main.39b3ef62.js.map": "/JPCW-Portfolio/static/js/main.39b3ef62.js.map",
+    "main.9bc248e0.js.map": "/JPCW-Portfolio/static/js/main.9bc248e0.js.map",
     "787.8a950701.chunk.js.map": "/JPCW-Portfolio/static/js/787.8a950701.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a2adbcc.css",
-    "static/js/main.39b3ef62.js"
+    "static/js/main.9bc248e0.js"
   ]
 }
