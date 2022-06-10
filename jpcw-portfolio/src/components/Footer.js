@@ -18,7 +18,7 @@ export default function Footer() {
                 <a
                     className="btn btn-primary btn-floating m-1"
                     style={{"background-color": "#dd4b39"}}
-                    href="www.google.com"
+                    href="https://www.google.com/search?sxsrf=ALiCzsb7jaY5l7rPr1IUyQ7afgn8DZiVuw:1654830603843&source=univ&tbm=isch&q=jpcreativeworks&fir=x0jJWcVFpZ5vyM…"
                     role="button">Google</a>
 
                 {/* <!-- Instagram --> */}
