@@ -18,7 +18,7 @@ export default function Footer() {
                 <a
                     className="btn btn-primary btn-floating m-1"
                     style={{"background-color": "#dd4b39"}}
-                    href="https://www.google.com/search?sxsrf=ALiCzsb7jaY5l7rPr1IUyQ7afgn8DZiVuw:1654830603843&source=univ&tbm=isch&q=jpcreativeworks&fir=x0jJWcVFpZ5vyM…"
+                    href="https://www.google.com/search?q=jp+creative+works+home+facebook+tucson&amp;tbm=isch&amp;ved=2ahUKEwiD2PG696H4AhXclGoFHXwFBhsQ2-cCegQIABAA&amp;oq=jp+creative+works+home+facebook+tucson&amp;gs_lcp=CgNpbWcQAzoGCAAQHhAHUIMMWOVJYLROaABwAHgAgAFoiAHcFZIBBDMxLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&amp;sclient=img&amp;ei=QrmiYoOvNNypqtsP_IqY2AE&amp;bih=821&amp;biw=1664"
                     role="button">Google</a>
 
                 {/* <!-- Instagram --> */}
