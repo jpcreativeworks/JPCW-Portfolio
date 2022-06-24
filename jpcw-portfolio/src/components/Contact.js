@@ -1,5 +1,6 @@
 import React from 'react'
 import Cnt from '../imgs/contact.jpg'
+import NameForm from './NameForm'
 
 export default function Contact() {
     return (
@@ -20,7 +21,7 @@ export default function Contact() {
                             </ul>
                         </div>
                  </div>
-                 
+                <NameForm /> 
             </div>
         </div>
     </div>
